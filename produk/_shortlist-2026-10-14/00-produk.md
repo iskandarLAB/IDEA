@@ -160,3 +160,27 @@ Tiada review rak ini dapat dibaca (Shopee tak terindeks, WebFetch gagal). Senara
 - [Duoke — TikTok Shop MY seller commission 2026](https://www.duoke.com/en/blog/article/394-How-is-TikTok-Shop-Commission-Fee-Calculated-2026)
 - [Involve Asia — Shopee Commission XTRA](https://involve.asia/shopee-commissions-xtra/)
 - [Gridoto / Medcom — bahaya ponco untuk penunggang motor](https://www.medcom.id/otomotif/tips-otomotif/ybDYDdXk-jas-hujan-model-ponco-tidak-melindungi-tapi-membahayakan)
+
+---
+
+## Tapisan: siapa tengah tekan ads (semakan 2026-10-14)
+
+Sumber: Meta Ad Library (Facebook + Instagram), negara MY, iklan **aktif** sahaja. Kreatif belum dibuka satu-satu, jadi padanan produk berdasarkan tajuk iklan.
+**Had:** TikTok tak dedahkan iklan Malaysia secara awam (Ad Library TikTok hanya EU), jadi GMV Max / Spark Ads di TikTok Shop **tak dapat disemak** di sini. Semak manual di TikTok Creative Center → Top Ads → Malaysia.
+
+"Shopee (page rasmi)" = iklan katalog listing Shopee yang dijalankan melalui page Shopee. Biasanya seller yang bayar (Shopee Ads ke Meta), tapi page seller tak dinamakan.
+
+| # | Produk | Ada ads aktif? | Siapa | Link iklan |
+|---|---|---|---|---|
+| 1 | Ampaian hexagon/pentagon 360 | **Ya, banyak** | Shopee (listing "[360° Rotate] Multifunction Pentagon Clothes Rack"); Deco Rumah Cantik ("Putar 360°, Semua Baju Depan Mata"); TitanShave ("Sidai Lepas Tu Tolak Masuk") | [Shopee 1](https://www.facebook.com/ads/library/?id=1137752655262078) · [Shopee 2](https://www.facebook.com/ads/library/?id=1094985226472347) · [Deco 1](https://www.facebook.com/ads/library/?id=2334198004077641) · [Deco 2](https://www.facebook.com/ads/library/?id=1479626764017008) · [TitanShave](https://www.facebook.com/ads/library/?id=905843035795575) |
+| 4 | Pouch telefon kalis air | **Ya — brand HQ** | Hypergear Malaysia ("Kecil Tapi Perlindungan Padu") | [1](https://www.facebook.com/ads/library/?id=1792123595478899) · [2](https://www.facebook.com/ads/library/?id=1665212367911453) |
+| 6 | Pengering baju mudah alih | **Ya — brand HQ** | ALLTOU (katalog: Clothes Dryer Machine Portable 600W) — harga mungkin atas RM120 | [1](https://www.facebook.com/ads/library/?id=972094611852366) · [2](https://www.facebook.com/ads/library/?id=1512557664012530) |
+| 7 | Kipas (mini tanpa wayar 8000mAh) | **Ya** | Deco Rumah Cantik, TitanShave (bukan kipas lantai 360 yang dalam shortlist) | [Deco](https://www.facebook.com/ads/library/?id=931219083108536) · [TitanShave](https://www.facebook.com/ads/library/?id=1808203347000293) |
+| 9 | Shaver | **Ya — brand HQ** | Nateskin (MYR, "Shave Master Bundle 2.0") — tapi kategori grooming, bukan dual-head generik | [1](https://www.facebook.com/ads/library/?id=1631003268428633) · [2](https://www.facebook.com/ads/library/?id=2183026188947184) |
+| 5 | Payung automatik | Tak pasti | Ada iklan Shopee/lain padan kata kunci, tapi produk tak jelas | [Shopee](https://www.facebook.com/ads/library/?id=1765139047898052) |
+| 2 | Sarung kasut silikon | Tiada | Hasil yang keluar bukan produk ni | — |
+| 3 | Spin scrubber | Tiada / tak pasti | "spin scrubber" = 0; "berus elektrik" keluar page Pinduoduo/Temu, produk tak jelas | — |
+| 8 | Thirsty Hippo | Tiada di Meta | — | — |
+| 10 | Penghalau tikus | Tak disemak (memang elak) | — | — |
+
+**Kesimpulan tapisan:** yang lepas (ada orang bayar ads aktif) → #1 ampaian 360, #4 pouch (Hypergear), #6 pengering baju (ALLTOU), #9 shaver (Nateskin), dan kipas mini. Pilihan #1 kekal paling kuat: dua pihak berbeza sedang iklankan produk yang sama. Sarung kasut (#2, backup lama) gugur dari tapisan ni.
