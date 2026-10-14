@@ -1,6 +1,6 @@
 # Skrip — Kipas Portable (Lava) · CONTOH
 
-**Jumlah perkataan VO:** 72 (sasaran 65–80)
+**Jumlah perkataan VO:** 68 (sasaran 65–80)
 
 | Shot | Masa | VO / Dialog | Teks skrin | Nada |
 |------|------|------|------|------|
