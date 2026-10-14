@@ -1,0 +1,8 @@
+# media mentah besar — simpan di Drive/Higgsfield, bukan git
+produk/*/footage/*
+!produk/*/footage/.gitkeep
+*.mp4
+*.mov
+*.wav
+*.mp3
+.DS_Store
